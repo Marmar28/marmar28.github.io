@@ -160,9 +160,9 @@ body{
 
 @media screen and (min-width:900px){
     .card{
-        min-height: 50vh;
+        min-height: 60vh;
         text-align: left;
-        width: 80%;
+        width: 90%;
     }
 
     .card-content{
