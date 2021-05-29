@@ -150,8 +150,7 @@ body{
 
 @media screen and (min-width:800px){
     .card-content{
-        margin: 0 auto;
-        margin-top: 2rem;
+        margin: 2rem auto;
         width: 70%;
     }
 
