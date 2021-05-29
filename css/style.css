@@ -162,7 +162,7 @@ body{
     .card{
         min-height: 50vh;
         text-align: left;
-        width: 90%;
+        width: 80%;
     }
 
     .card-content{
