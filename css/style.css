@@ -101,6 +101,10 @@ body{
 
 @media screen and (min-width:624px){
     .card{
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
         display: grid;           
         grid-template-columns: repeat(2, 50%);
         grid-auto-flow: column;
@@ -182,7 +186,7 @@ body{
     }
 
     .container-stats p{
-        margin-top: 2rem;
+        margin-top: 3rem;
         margin-right: auto;
     }
 
