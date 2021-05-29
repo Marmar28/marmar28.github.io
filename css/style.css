@@ -171,8 +171,8 @@ body{
     }
 
     .title{
-        font-size: 1.7rem;
-        line-height: 2.2rem;
+        font-size: 1.4rem;
+        line-height: 1.8rem;
         letter-spacing: 0.1rem;
     }
 
@@ -182,7 +182,7 @@ body{
     }
 
     .container-stats p{
-        margin-top: 2.5rem;
+        margin-top: 1rem;
         margin-right: auto;
     }
 
